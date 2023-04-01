@@ -6,12 +6,15 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace BeautyMeWEB.Controllers
 {
+
     public class ClientController : ApiController
     {
         // GET: api/Client
+
         [HttpGet]
         [Route("api/client")]
         public HttpResponseMessage Get()

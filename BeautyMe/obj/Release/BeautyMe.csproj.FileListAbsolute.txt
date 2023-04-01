@@ -1,0 +1,12 @@
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\BeautyMe.dll.config
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\BeautyMe.dll
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\BeautyMe.pdb
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\EntityFramework.dll
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\EntityFramework.xml
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\obj\Release\BeautyMe.csproj.AssemblyReference.cache
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\obj\Release\BeautyMe.csproj.CoreCompileInputs.cache
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\obj\Release\BeautyMe.csproj.CopyComplete
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\obj\Release\BeautyMe.dll
+C:\Users\ofirt\OneDrive\Desktop\Beauty_Me\BeautyMe\BeautyMe\obj\Release\BeautyMe.pdb
